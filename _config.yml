@@ -16,9 +16,13 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Frisco Template
+  name: SeeMe
   links:
     - https://github.com/CloudCannon/frisco-jekyll-template
+
+# -----
+# API
+google_maps_javascript_api_key: "AIzaSyBfhdtkNcNLM-XcRsdFL6n0kzSC3Z61mNk"
 
 # -----
 # Build
