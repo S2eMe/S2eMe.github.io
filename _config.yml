@@ -5,7 +5,7 @@ title: SeeMe
 url: "https://brave-submarine.cloudvent.net"
 baseurl:
 google_analytics_key:
-google_maps_javascript_api_key:
+google_maps_javascript_api_key: "AIzaSyBfhdtkNcNLM-XcRsdFL6n0kzSC3Z61mNk"
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
@@ -19,10 +19,6 @@ social:
   name: SeeMe
   links:
     - https://github.com/CloudCannon/frisco-jekyll-template
-
-# -----
-# API
-google_maps_javascript_api_key: "AIzaSyBfhdtkNcNLM-XcRsdFL6n0kzSC3Z61mNk"
 
 # -----
 # Build
